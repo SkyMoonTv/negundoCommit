@@ -5,11 +5,11 @@
 section ul li::before {
     
     padding-right: 2%;
-    color: lightcoral;
+    color: #DDD0C8;
 }
 
 section p::selection {
-    background-color:lightcoral ;
+    background-color:#DDD0C8 ;
 }
 
 section {

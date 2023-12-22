@@ -17,9 +17,9 @@
     
     }
     
-    header {background-color: lightcoral;
+    header {background-color: #DDD0C8;
         border-style: solid;
-        border-color: brown;
+        border-color: #323232;
     }
         
 
@@ -46,14 +46,14 @@
     
     }
 
-    nav {background-color:lightcoral;float: left;
+    nav {background-color:#DDD0C8;float: left;
         font-family: 'Oswald', sans-serif;
         font-size: 1.3em;
         font-weight: 700;
         line-height: 4;
         border-radius: 5%;
         border-style: solid;  
-        border-color: brown;
+        border-color: #323232;
     }
 
     nav ul {list-style-type: none;
@@ -79,15 +79,15 @@
     
     }
 
-    aside {color:brown;float: right;border-style: solid; width: 25%;
+    aside {color:#323232;float: right;border-style: solid; width: 25%;
         font-family: PTSerif-Regular,sans-serif;
         font-size: 1.5em;
-        background-color: bisque;
+        background-color: #DDD0C8;
         
         
     }
 
-    aside a {text-decoration: none;color:orange;
+    aside a {text-decoration: none;color:rgb(204, 193, 245);
     
     }
 
@@ -95,13 +95,13 @@
     
     }
 
-    footer {clear: both;background-color: lightcoral;color: black;
+    footer {clear: both;background-color: #DDD0C8;color: black;
         font-family:'https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap';
         font-size: 0.8em;
         font-style: italic;
         text-align: center;
         border-style: solid;
-        border-color: brown;
+        border-color: #323232;
     }
 
     footer div {float: right;

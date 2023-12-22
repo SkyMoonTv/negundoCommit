@@ -12,17 +12,16 @@ text-transform: uppercase;
 
 section ul li{
     list-style: none;
-    /* list-style-image:url("../images/coeur-gif-079.gif"); */
 }
 
 section ul li::before {
-    content: "֍";
+    content: "=>";
     padding-right: 2%;
-    color: lightcoral;
+    color: #DDD0C8;
 }
 
 section p::selection {
-    background-color:lightcoral ;
+    background-color:#DDD0C8 ;
 }
 
 aside i[class='fas fa-address-card'] {
@@ -64,7 +63,7 @@ header button{
 }
 
 .modal-content{
-    background-color: aquamarine;
+    background-color: rgb(165, 171, 219);
     margin: auto;
     padding: 20px;
     border: 1px solid gray;

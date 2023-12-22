@@ -4,7 +4,6 @@ section div {
 
 section ul li{
     list-style: none;
-    /* list-style-image:url("../images/coeur-gif-079.gif"); */
 }
 
 section ul li::before {

@@ -9,20 +9,21 @@
 }
 
 form fieldset{
-    background-color:bisque ;
+    background-color:#cec1b9 ;
 }
 
 form legend {
-    background-color: lightcoral;
+    background-color: #DDD0C8;
 }
 
 form button{
-    background-color: brown;
+    background-color: #818181;
 }
 
 form button:hover{
-    background-color: lightcoral;
+    background-color: #DDD0C8;
 }
  form {
     width: 100%;
  }
+
